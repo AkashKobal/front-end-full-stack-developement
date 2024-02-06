@@ -1,7 +1,7 @@
 # front-end-full-stack-developement
-## 🗒️ Course Description
+## 🗒️ Description
 
-This intermediate course focuses on empowering students to excel in front-end full-stack development, with a strong emphasis on essential employability skills. Throughout the course, students will delve into key technologies and architectures necessary for designing and implementing front-end solutions. By successfully completing this course, students will be well-equipped to pursue a career in full-stack development, with a comprehensive understanding of both front-end and back-end aspects. Moreover, students will cultivate robust problem-solving abilities, vital for navigating challenges in real-world development scenarios.
+This intermediate repository focuses on empowering learner's to excel in front-end full-stack development, with a strong emphasis on essential employability skills. Throughout the repository, learner's will delve into key technologies and architectures necessary for designing and implementing front-end solutions. By successfully completing this repository, learner's will be well-equipped to pursue a career in full-stack development, with a comprehensive understanding of both front-end and back-end aspects. Moreover, learner's will cultivate robust problem-solving abilities, vital for navigating challenges in real-world development scenarios.
 
 ## 📚 Text Resources
 1. **Front-end Fundamentals** by Fender, Young (Leanpub, 2015) - This book provides foundational knowledge in front-end development, offering insights into essential concepts and techniques [[1](https://www.upgrad.com/blog/skills-to-become-a-full-stack-developer/)].
@@ -18,4 +18,4 @@ This intermediate course focuses on empowering students to excel in front-end fu
 - [YouTube - Full Stack Development Tutorial Series](https://www.youtube.com/watch?v=JGNTYXkVCVY&list=PLd3UqWTnYXOkTSBCBNyyhxo_jxlY_uTWA&index=2) - Tutorial series providing practical insights into full-stack development [[4](https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)].
 - [PUniversity - Full Stack Web Development Course](https://puniversity.informaticsglobal.com:2229/login.aspx?direct=true&db=nlebk&AN=2233842&site=ehost-live) - Offers a comprehensive course on full-stack web development [[4](https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)].
 
-This README serves as a comprehensive guide for students embarking on the front-end full-stack development journey, providing valuable resources and references to enhance their skills and knowledge in this dynamic field.
+This README serves as a comprehensive guide for learner's embarking on the front-end full-stack development journey, providing valuable resources and references to enhance their skills and knowledge in this dynamic field.
