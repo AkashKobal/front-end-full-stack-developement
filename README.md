@@ -4,7 +4,7 @@
 This intermediate repository focuses on empowering learner's to excel in front-end full-stack development, with a strong emphasis on essential employability skills. Throughout the repository, learner's will delve into key technologies and architectures necessary for designing and implementing front-end solutions. By successfully completing this repository, learner's will be well-equipped to pursue a career in full-stack development, with a comprehensive understanding of both front-end and back-end aspects. Moreover, learner's will cultivate robust problem-solving abilities, vital for navigating challenges in real-world development scenarios.
 
 ## 📚 Text Resources
-1. **Front-end Fundamentals** by Fender, Young (Leanpub, 2015) - This book provides foundational knowledge in front-end development, offering insights into essential concepts and techniques [(https://www.upgrad.com/blog/skills-to-become-a-full-stack-developer/)].
+1. **Front-end Fundamentals** by Fender, Young (Leanpub, 2015) - This book provides foundational knowledge in front-end development, offering insights into essential concepts and techniques [[link](https://www.upgrad.com/blog/skills-to-become-a-full-stack-developer/)].
 2. **The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer** by Northwood, Chris (APress, 2018) - A comprehensive guide covering the breadth of skills required for modern full-stack development [(https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)].
 
 ## 📚 References
