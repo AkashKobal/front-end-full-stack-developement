@@ -13,9 +13,9 @@ This intermediate repository focuses on empowering learner's to excel in front-e
 3. Duckett J., Ruppert G., Moore J. (2014). *Javascript & jQuery: Interactive Front-End Web Development*. Wiley [[link](https://skillcrush.com/blog/skills-to-become-a-front-end-developer/)].
 
 ## 🌐 Web References
-- [Frontend Web Developer Bootcamp][link](https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/) - Offers additional resources and guidance for aspiring front-end developers [(https://www.interviewbit.com/blog/front-end-developer-skills/)].
-- [NPTEL - Front-end Development Course][link](https://nptel.ac.in/courses/106102064) - Online course covering front-end development concepts and skills [(https://skillcrush.com/blog/skills-to-become-a-front-end-developer/)].
-- [YouTube - Full Stack Development Tutorial Series][link](https://www.youtube.com/watch?v=JGNTYXkVCVY&list=PLd3UqWTnYXOkTSBCBNyyhxo_jxlY_uTWA&index=2) - Tutorial series providing practical insights into full-stack development [(https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)].
-- [PUniversity - Full Stack Web Development Course](https://puniversity.informaticsglobal.com:2229/login.aspx?direct=true&db=nlebk&AN=2233842&site=ehost-live) - Offers a comprehensive course on full-stack web development [(https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)].
+- [Frontend Web Developer Bootcamp][link](https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/) - Offers additional resources and guidance for aspiring front-end developers [[link](https://www.interviewbit.com/blog/front-end-developer-skills/)].
+- [NPTEL - Front-end Development Course][link](https://nptel.ac.in/courses/106102064) - Online course covering front-end development concepts and skills [[link](https://skillcrush.com/blog/skills-to-become-a-front-end-developer/)].
+- [YouTube - Full Stack Development Tutorial Series][link](https://www.youtube.com/watch?v=JGNTYXkVCVY&list=PLd3UqWTnYXOkTSBCBNyyhxo_jxlY_uTWA&index=2) - Tutorial series providing practical insights into full-stack development [[link](https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)].
+- [PUniversity - Full Stack Web Development Course](https://puniversity.informaticsglobal.com:2229/login.aspx?direct=true&db=nlebk&AN=2233842&site=ehost-live) - Offers a comprehensive course on full-stack web development [[link](https://bootcamp.cvn.columbia.edu/blog/what-is-a-full-stack-developer/)].
 
 This README serves as a comprehensive guide for learner's embarking on the front-end full-stack development journey, providing valuable resources and references to enhance their skills and knowledge in this dynamic field.
