@@ -7,3 +7,4 @@ This intermediate repository focuses on empowering learner's to excel in front-e
 ![alt text](https://github.com/AkashKobal/front-end-full-stack-developement/blob/main/output/restaurant%20website.png)
 
 This README serves as a comprehensive guide for learner's embarking on the front-end full-stack development journey, providing valuable resources and references to enhance their skills and knowledge in this dynamic field.
+  
