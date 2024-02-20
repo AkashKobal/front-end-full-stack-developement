@@ -1,4 +1,4 @@
-# front-end-full-stack-developement
+# front-end-full-stack-developement 
 ## 🗒️ Description 
 
 This intermediate repository focuses on empowering learner's to excel in front-end full-stack development, with a strong emphasis on essential employability skills. Throughout the repository, learner's will delve into key technologies and architectures necessary for designing and implementing front-end solutions. By successfully completing this repository, learner's will be well-equipped to pursue a career in full-stack development, with a comprehensive understanding of both front-end and back-end aspects. Moreover, learner's will cultivate robust problem-solving abilities, vital for navigating challenges in real-world development scenarios.  
